@@ -1,0 +1,8 @@
+README.md
+setup.py
+foocatmobypy/__init__.py
+foocatmobypy/foocatmobypy.py
+foocatmobypy.egg-info/PKG-INFO
+foocatmobypy.egg-info/SOURCES.txt
+foocatmobypy.egg-info/dependency_links.txt
+foocatmobypy.egg-info/top_level.txt
